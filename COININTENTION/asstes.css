@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.fa-solid fa-eye{
+    /* Vector */
+
+
+position: absolute;
+left: 60.25%;
+right: 37.67%;
+top: 51.05%;
+bottom: 48.3%;
+
+background: #FF696A;
+}
